@@ -54,4 +54,4 @@ spec:
 
 Key-Value Pairs
 Real life example of key value pair example:
-<img src="https://github.com/vaibhavkapase1302/YAML-For-DevOps/blob/main/YAML%20key-value%20pair%20eg.png" alt="GitHub Logo" align="left" width="300" height="500" >
+<img src="https://github.com/vaibhavkapase1302/YAML-For-DevOps/blob/main/YAML%20key-value%20pair%20eg.png" alt="GitHub Logo" align="left" width="400" height="500" >
