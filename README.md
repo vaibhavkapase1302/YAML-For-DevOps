@@ -16,4 +16,4 @@ email: vaibhavkapase132@gmail.com
 ```
 
 YAML extension is
-```js .yaml ``` or ```js .yml```
+``` .yaml ``` or ``` .yml```
