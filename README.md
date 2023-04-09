@@ -17,3 +17,14 @@ email: vaibhavkapase132@gmail.com
 
 YAML extension is
 ``` .yaml ``` or ``` .yml```
+
+For Comment in YAML
+use ``` "#" ```
+Comments start with the "#" character and continue to the end of the line. 
+
+Here's an example:
+```js
+# This is a YAML comment
+key: value # This is a comment at the end of a line
+
+```
