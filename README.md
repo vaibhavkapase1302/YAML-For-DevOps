@@ -57,7 +57,6 @@ Real life example of key value pair example:
 
 <img src="https://github.com/vaibhavkapase1302/YAML-For-DevOps/blob/main/YAML%20key-value%20pair%20eg.png" alt="GitHub Logo" align="left" width="450" height="500" >
 
-<br>
 #### Here is the sample example of YAML code to uderstand YAML syntax easily
 ```yml
 we: fdgd
