@@ -50,3 +50,8 @@ spec:
         ports:
         - containerPort: 8080
 ```
+## Basic Syntax of YAAML
+
+Key-Value Pairs
+Real life example of key value pair example:
+<img src="" alt="GitHub Logo" width="800" height="500">
