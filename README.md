@@ -23,7 +23,7 @@ use ``` "#" ```
 Comments start with the "#" character and continue to the end of the line. 
 
 Here's an example:
-```js
+```yml
 # This is a YAML comment
 key: value # This is a comment at the end of a line
 
