@@ -7,6 +7,12 @@ This repository gives understanding of YAML and their Use cases in DevOps
 * YAML is similar to other data serialization formats like JSON and XML
 * YAML is commonly used in configuration files for tools and applications, as well as in cloud infrastructure management tools like AWS CloudFormation, Kubernetes, and Ansible.
 
+## Important Links:
+[Yaml Tutorial | Learn YAML in 18 mins by Nana](https://youtu.be/1uFVr15xDGg)
+[Only YAML Tutorial you need as a DevOps Engineer  by Shubham Londhe](https://youtu.be/LFUi5JGr0cE)
+[YAML Tutorial by tutorialspoint ](https://www.tutorialspoint.com/yaml/index.htm)
+
+
 Here's an example of a simple YAML document:
 
 ```yml
