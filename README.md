@@ -51,6 +51,10 @@ spec:
         - containerPort: 8080
 ```
 ## Basic Syntax of YAAML
+Here is the sample example of YAML code to uderstand YAML syntax easily
+```yml
+
+```
 
 ### Key-Value Pairs
 Real life example of key value pair example:
