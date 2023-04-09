@@ -28,7 +28,7 @@ Here's an example:
 key: value # This is a comment at the end of a line
 ```
 
-Here's an example of YAML code used in DevOps for defining a Kubernetes deployment:
+## Here's an example of YAML code used in DevOps for defining a Kubernetes deployment:
 ```yml
 apiVersion: apps/v1
 kind: Deployment
