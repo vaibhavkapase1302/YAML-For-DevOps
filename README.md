@@ -9,7 +9,7 @@ This repository gives understanding of YAML and their Use cases in DevOps
 
 Here's an example of a simple YAML document:
 
-```js
+```yml
 name: vaibhav kapase
 age: 21
 email: vaibhavkapase132@gmail.com
