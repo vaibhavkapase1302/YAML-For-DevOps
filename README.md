@@ -9,7 +9,9 @@ This repository gives understanding of YAML and their Use cases in DevOps
 
 ## Important Links:
 [Yaml Tutorial | Learn YAML in 18 mins by Nana](https://youtu.be/1uFVr15xDGg)
+
 [Only YAML Tutorial you need as a DevOps Engineer  by Shubham Londhe](https://youtu.be/LFUi5JGr0cE)
+
 [YAML Tutorial by tutorialspoint ](https://www.tutorialspoint.com/yaml/index.htm)
 
 
