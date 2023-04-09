@@ -26,5 +26,27 @@ Here's an example:
 ```yml
 # This is a YAML comment
 key: value # This is a comment at the end of a line
+```
 
+Here's an example of YAML code used in DevOps for defining a Kubernetes deployment:
+```yml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+      - name: my-app-container
+        image: my-app-image:latest
+        ports:
+        - containerPort: 8080
 ```
